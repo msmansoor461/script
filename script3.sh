@@ -1,6 +1,6 @@
 #!/bin/bash
 
-age=16
+age=24
 
 if [ "$age" -gt 14 -a "$age" -lt 22 ]
 then 
